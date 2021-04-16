@@ -1,0 +1,4 @@
+com/agile/engine/pages/LoginPage.class
+com/agile/engine/controller/BasePage.class
+com/agile/engine/utils/WebEventListener.class
+com/agile/engine/controller/PropertyManager.class
